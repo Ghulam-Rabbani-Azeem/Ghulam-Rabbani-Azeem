@@ -10,4 +10,7 @@ Currently, I'm pursuing a **Master's in Data Science**, which allows me to blend
 
 🚀 I'm always excited to collaborate on innovative projects, contribute to open-source, and learn from this amazing developer community.
 
-Feel free to explore my repositories and connect with me! 🌐  
+Feel free to explore my repositories! 🌐  
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ghulam-rabbani-032b8629b/)
+
