@@ -13,4 +13,3 @@ Currently, I'm pursuing a **Master's in Data Science**, which allows me to blend
 Feel free to explore my repositories! 🌐  
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/ghulam-rabbani-032b8629b/)  
-[grsulehri@gmail.com](mailto:grsulehri@gmail.com)
