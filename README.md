@@ -1,4 +1,4 @@
-# 🌟 Welcome to My GitHub! 🌟
+# About ME
 
 I'm a **DevOps and Cloud Infrastructure Engineer** with a passion for creating scalable, reliable, and efficient systems. My expertise lies in building CI/CD pipelines, managing cloud environments, and automating infrastructure to support high-performing development teams.
 
